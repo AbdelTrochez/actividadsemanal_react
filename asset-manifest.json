@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/actividadsemanal_react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/actividadsemanal_react/static/js/main.85cbe702.chunk.js",
+    "main.js.map": "/actividadsemanal_react/static/js/main.85cbe702.chunk.js.map",
+    "runtime-main.js": "/actividadsemanal_react/static/js/runtime-main.bf4357f2.js",
+    "runtime-main.js.map": "/actividadsemanal_react/static/js/runtime-main.bf4357f2.js.map",
+    "static/js/2.8ef7aa3b.chunk.js": "/actividadsemanal_react/static/js/2.8ef7aa3b.chunk.js",
+    "static/js/2.8ef7aa3b.chunk.js.map": "/actividadsemanal_react/static/js/2.8ef7aa3b.chunk.js.map",
+    "index.html": "/actividadsemanal_react/index.html",
+    "precache-manifest.7a4de46f471fde1b0267aa31587bfc89.js": "/actividadsemanal_react/precache-manifest.7a4de46f471fde1b0267aa31587bfc89.js",
+    "service-worker.js": "/actividadsemanal_react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/actividadsemanal_react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8ef7aa3b.chunk.js.LICENSE.txt": "/actividadsemanal_react/static/js/2.8ef7aa3b.chunk.js.LICENSE.txt",
+    "static/media/bebe.jpg": "/actividadsemanal_react/static/media/bebe.af37b255.jpg",
+    "static/media/carousel1.jpg": "/actividadsemanal_react/static/media/carousel1.aab2f497.jpg",
+    "static/media/carousel2.jpg": "/actividadsemanal_react/static/media/carousel2.5a9bdbc0.jpg",
+    "static/media/carousel3.jpg": "/actividadsemanal_react/static/media/carousel3.7924a822.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf4357f2.js",
+    "static/js/2.8ef7aa3b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.85cbe702.chunk.js"
+  ]
+}
